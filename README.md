@@ -25,23 +25,20 @@ Pilot Insight evaluates flight data based on FAA regulations. This website allow
 To run the site, make sure to have **NodeJS** and **Python3** installed on your computer.
 
 1. [Install NodeJS](https://nodejs.org/en/download)
-2. Open your terminal and navigate to the project directory:
-   ```sh
-   cd project
-   ```
-3. Install the necessary Python dependencies:
+
+2. Install the necessary Python dependencies:
    ```sh
    pip3 install -r requirements.txt
    ```
-4. Install the necessary NodeJS dependencies:
+3. Install the necessary NodeJS dependencies:
    ```sh
    npm install
    ```
-5. Start the server:
+4. Start the server:
    ```sh
    npm start
    ```
-6. Open the localhost link provided in the console.
+5. Open the localhost link provided in the console.
 
 ## Branch Details
 
